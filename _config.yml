@@ -25,6 +25,7 @@ github_username:  namndh
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my nam's Nam and I'm a junior data engineer. I also have experience making machine learning and deep leanring apps. I have worked a a number of companies gaining teamwork and leadershop skills.
+  
   I am most skilled in: <mark>Python</mark>
 
 # Projects Section
@@ -42,8 +43,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in data and software engineering some of my other interests and hobbies are:
    - Gym
    - Gaming
-   - Billard Pool
-  #  - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Pool Billard
 
 # Footer
 footer_show_references: true
@@ -57,3 +57,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+darkmode: true/false
