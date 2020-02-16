@@ -1,9 +1,27 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  company: Teko
+  link: www.teko.vn
+  job_title: Data Engineer
+  dates: September 2019 - Present
+  # quote: >
+    Providing ETL progress for data of VNPAY, Tripi, Phongvu
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    I provide ETL process and reports for data of VNPAY, Tripi, Phongvu.
+
+- layout: left
+  company: Aimesoft
+  link: http://www.aimesoft.com/
+  job_title: Machine Learning engineer
+  dates: October 2018 - September 2019
+  description:
+    I provide computer vision applications implemented with scalability and reusability
+  
+- layout: left
+  company: Finsify
+  link: https://finsify.com/
+  job_title: Data Mining intern
+  dates: April 2018 - October 2018
+  description:
+    I provide data mining tasks and text mining applications.
+
+
