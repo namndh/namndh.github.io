@@ -1,7 +1,5 @@
 - layout: top-middle
   name: Density Analysis
-  # link: github.com/sproogen
-  # github: sproogen/resume-theme
   quote: >
     This is the project I have learnt a lot about Deep learning, Visualization and Parallel Programing in Python
   description: | # this will include new lines to allow paragraphs
@@ -11,8 +9,6 @@
 
 - layout: top-middle
   name: Online Pedestrian Tracking
-  # link: github.com/sproogen
-  # github: sproogen/resume-theme
   quote: >
     This is the project I have learnt about Deep learning, Visualization and Parallel Programing in Python
   description: | # this will include new lines to allow paragraphs
