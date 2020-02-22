@@ -3,25 +3,25 @@
   link: www.teko.vn
   job_title: Data Engineer
   dates: September 2019 - Present
-  # quote: >
-    Providing ETL progress for data of VNPAY, Tripi, Phongvu
+  quote: >
+   
   description: | # this will include new lines to allow paragraphs
     I provide ETL process and reports for data of VNPAY, Tripi, Phongvu.
 
-- layout: left
-  company: Aimesoft
-  link: http://www.aimesoft.com/
-  job_title: Machine Learning engineer
-  dates: October 2018 - September 2019
-  description:
-    I provide computer vision applications implemented with scalability and reusability
+# - layout: left
+#   company: Aimesoft
+#   link: http://www.aimesoft.com/
+#   job_title: Machine Learning engineer
+#   dates: October 2018 - September 2019
+#   description:
+#     I provide computer vision applications implemented with scalability and reusability
   
-- layout: left
-  company: Finsify
-  link: https://finsify.com/
-  job_title: Data Mining intern
-  dates: April 2018 - October 2018
-  description:
-    I provide data mining tasks and text mining applications.
+# - layout: left
+#   company: Finsify
+#   link: https://finsify.com/
+#   job_title: Data Mining intern
+#   dates: April 2018 - October 2018
+#   description:
+#     I provide data mining tasks and text mining applications.
 
 
