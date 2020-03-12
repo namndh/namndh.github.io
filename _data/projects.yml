@@ -1,19 +1,25 @@
 - layout: top-middle
   name: Density Analysis
   quote: >
-    This is the project I have learnt a lot about Deep learning, Visualization and Parallel Programing in Python
+    This is the project I have learnt a lot about Object detection, visualization and parallel programing in Python
   description: | # this will include new lines to allow paragraphs
-    In this project, the objective is visualizing realtime the density of pedestrians in areas where the CCTVs covered. 
-    I proposed two approaches to solve this problem. Fistly I using YOLOv3 model trained on MOT17-DET to detect person. Secondly, I used CSRNET to estimate crowed scenes. I found that the solution using YOLOv3 provide a realtime solution and can be applied with the scene and the pose of perdestrians without pre-training.
-    I used Gaussian matrix to represent a person detection area in heatmap and weighted accumulate the matrix during the time of video to visualize the density of perdestrians.
+    The objective of project is visualizing realtime the density of pedestrians in areas where the CCTVs covered. 
+    I proposed two approaches to solve this problem. Fistly, I used YOLOv3 model trained on MOT17-DET to detect person. Secondly, I used CSRNET to estimate crowed scenes. I found that the solution using YOLOv3 provide a realtime solution and can be applied with the scene and the pose of perdestrians without pre-training.
+    After that, I used Gaussian matrix to represent a person detection area in the heatmap and weighted accumulate the matrix during the time of video to visualize the density of perdestrians.
 
 - layout: top-middle
   name: Online Pedestrian Tracking
   quote: >
-    This is the project I have learnt about Deep learning, Visualization and Parallel Programing in Python
+    In this project, I have learnt about Object detection and tracking algorithms
   description: | # this will include new lines to allow paragraphs
-    In this project, the objective is visualizing realtime the density of pedestrians in areas where the CCTVs covered. 
-    I proposed two approaches to solve this problem. Fistly I using YOLOv3 model trained on MOT17-DET to detect person. Secondly, I used CSRNET to estimate crowed scenes. I found that the solution using YOLOv3 provide a realtime solution and can be applied with the scene and the pose of perdestrians without pre-training.
-    I used Gaussian matrix to represent a person detection area in heatmap and weighted accumulate the matrix during the time of video to visualize the density of perdestrians.
+    I used this project as my graduation research at HUST and have this project A scored by both supervisor, and the thesis committee.
+    The objective of this project is tracking pedestrians while remainning their identifications during the time they appeared in the video space.
+    I proposed two solutions based on DeepSORT architecture,first, I replaced RCNN person detector by YoloV3 pretrained on ImageNet. Second, I alter the DeepSORT architecture by using perameter-free spartition attention network as appearance descriptior.
 
-
+- layout: top-middle
+  name: Real-counterfeit money classification
+  quote: >
+    A project invested by Japan Cash Machine Co., Ltd.
+  description:
+    The image of banknotes are captured by multiple sensors including RGB, IR. I used RGB and IR images with combination of classic classification algorithms such as SVM,KNN and Logistic Regression with feature extraction algorithms to classify real-counterfeit banknotes
+    
