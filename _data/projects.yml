@@ -33,7 +33,7 @@
 - layout: top-middle
   name: Transactions classification for MoneyLover application
   quote: >
-    A project I learnt about NLP, text mining and deep learning
+    I this project, I learnt a lot about NLP, text mining and deep learning
   description:
     I use CNN with customized Word2Vec model to classify transaction descriptions. After that, I serve API requests to connect our model with application. This project helps MoneyLover increase positively their user experience.
 

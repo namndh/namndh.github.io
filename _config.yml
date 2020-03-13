@@ -8,6 +8,8 @@ title: Data Engineer
 email: hainam.nguyen.ict@gmail.com
 website: https://namndh.github.io
 
+darkmode: true
+
 # Social links
 # twitter_username: facespics
 github_username:  namndh
@@ -24,9 +26,9 @@ github_username:  namndh
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Nam and I'm a junior data engineer. I also have experience in developing machine learning and deep leanring application. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Nam and I am a junior data engineer. I also have experience in developing machine learning and deep learning application. I have worked at a number of companies gaining teamwork and leadership skills.
   
-  I am most skilled in: <mark>Python</mark>
+  I am most skilled in: <mark>Python</mark>, <mark>PySpark</mark>, <mark>Pytorch</mark> and <mark>OpenCV</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -43,7 +45,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in data and software engineering some of my other interests and hobbies are:
    - Gym
    - Gaming
-   - Pool Billard
+   - Pool Billiard
 
 # Footer
 footer_show_references: true
@@ -57,5 +59,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
-darkmode: true
