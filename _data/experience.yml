@@ -15,16 +15,18 @@
   job_title: Machine Learning engineer
   dates: October 2018 - September 2019
   quote: >
-  
+
   description:
-    I provide computer vision applications implemented with scalability and reusability
+    Working as a machine learning engineer. We provide scalable, reuseable and high performance computer vision applications.
   
-# - layout: left
-#   company: Finsify
-#   link: https://finsify.com/
-#   job_title: Data Mining intern
-#   dates: April 2018 - October 2018
-#   description:
-#     I provide data mining tasks and text mining applications.
+- layout: left
+  company: Finsify
+  link: https://finsify.com/
+  job_title: Data Mining intern
+  dates: April 2018 - October 2018
+  quote: >
+
+  description:
+    Working as a data engineering trainee. I have learnt a lot about software engineering, text mining and NLP and Deep Learning algorithms
 
 
