@@ -4,8 +4,8 @@
     Aimesoft
   description: | # this will include new lines to allow paragraphs
     The objective of project is visualizing realtime the density of pedestrians in areas where the CCTVs covered. 
-    I proposed two approaches to solve this problem. Firstly, I used YOLOv3 model trained on MOT17-DET to detect person. Secondly, I used CSRNET to estimate crowed scenes. I found that the solution using YOLOv3 provide a realtime solution and can be applied with the scene and the pose of perdestrians without pre-training.
-    After that, I used Gaussian matrix to represent a person detection area in the heatmap and weighted accumulate the matrix during the time of video to visualize the density of perdestrians.
+    I proposed two approaches to solve this problem. Firstly, I used YOLOv3 model trained on MOT17-DET to detect person. Secondly, I used CSRNET to estimate crowed scenes. I found that the solution using YOLOv3 provide a realtime solution and can be applied with the scene and the pose of pedestrians without pre-training.
+    After that, I used Gaussian matrix to represent a person detection area in the heat-map and weighted accumulate the matrix during the time of video to visualize the density of pedestrians.
 
 - layout: top-middle
   name: Online Pedestrian Tracking
@@ -14,7 +14,7 @@
   description: | # this will include new lines to allow paragraphs
     I used this project as my graduation research at HUST and have this project A scored by both supervisor, and the thesis committee.
     The objective of this project is tracking pedestrians while remaining their identifications during the time they appeared in the video space.
-    I proposed two solutions based on DeepSORT architecture. First, I replaced RCNN person detector by YoloV3 pre-trained on ImageNet. Second, I alter the DeepSORT architecture by using parameter-free spatial attention network as appearance descriptor.
+    I proposed two solutions based on DeepSORT architecture. First, I replaced RCNN person detector by Yolo V3 pre-trained on ImageNet. Second, I alter the DeepSORT architecture by using parameter-free spatial attention network as appearance descriptor.
 
 - layout: top-middle
   name: Real-counterfeit money classification
