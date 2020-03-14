@@ -14,7 +14,7 @@
   description: | # this will include new lines to allow paragraphs
     I used this project as my graduation research at HUST and have this project A scored by both supervisor, and the thesis committee.
     The objective of this project is tracking pedestrians while remaining their identifications during the time they appeared in the video space.
-    I proposed two solutions based on DeepSORT architecture,first, I replaced RCNN person detector by YoloV3 pre-trained on ImageNet. Second, I alter the DeepSORT architecture by using perameter-free spartition attention network as appearance descriptior.
+    I proposed two solutions based on DeepSORT architecture. First, I replaced RCNN person detector by YoloV3 pre-trained on ImageNet. Second, I alter the DeepSORT architecture by using parameter-free spatial attention network as appearance descriptor.
 
 - layout: top-middle
   name: Real-counterfeit money classification
@@ -28,21 +28,21 @@
   quote: > 
     Finsify
   description:
-    We used clustering algorithm, K-means and mean-shift algorithms with input is statistical data from users' activities to segment them into groups. We set different schedules for our servers for each group of users to crawl the data, which would help us save the cost of using service from third party companies.
+    We used K-means and mean-shift algorithms with the input is statistical data from users' activities to segment them into groups. We set different schedules for our servers for each group of users to crawl the data, which would help us save the cost of using service from third party companies.
 
 - layout: top-middle
   name: Transactions classification for MoneyLover application
   quote: >
     Finsify
   description:
-    I use CNN with customized Word2Vec model to classify transaction descriptions. After that, I serve API requests to connect our model with application. This project helps MoneyLover increase positively their user experience.
+    I use CNN with customized Word2Vec model to classify transaction descriptions. After that, I serve API requests to connect the model with application. This project helps MoneyLover increase positively their user experience.
 
 - layout: top-middle
   name: Error detection on cable products
   quote: >
     HUST - A project let me get familiar with image processing in C++
   description:
-    We used several image processing algorithms such as binary image, Hough transform, edge detections algorithms, connected components to detect abnormal angle of connecting parts of cable
+    We used several image processing algorithms such as binary image, Hough transform, edge detections algorithms, connected components to detect abnormal angle of connecting parts of cables.
     Our application can work real time with industrial camera in speed of 8 FPS.
 
 
