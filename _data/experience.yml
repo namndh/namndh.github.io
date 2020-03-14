@@ -6,7 +6,7 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    Working as a data engineer. Our team provides ETL process for data of VNPAY, VNShop, VinMart to make these data meaningful. 
+    Our team provides ETL process for data of VNPAY, VNShop, VinMart to make these data meaningful. 
     We provide reusable code with unit-test. We use Gitlab CI-CD to make our tasks run automatically.
 
 - layout: left
@@ -17,7 +17,7 @@
   quote: >
 
   description:
-    Working as a machine learning engineer. We provide scalable, reuseable and high performance computer vision applications.
+    We provide scalable, reuseable and high performance computer vision applications.
   
 - layout: left
   company: Finsify
@@ -27,6 +27,6 @@
   quote: >
 
   description:
-    Working as a data engineering trainee. I have learnt a lot about software engineering, text mining, NLP and Deep Learning algorithms
+    I have learnt a lot about software engineering, text mining, NLP and Deep Learning algorithms
 
 
