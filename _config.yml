@@ -28,7 +28,15 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Nam and I am a junior data engineer. I also have experience in developing machine learning and deep learning application. I have worked at a number of companies gaining teamwork and leadership skills.
   
-  I am most skilled in: <mark>Python</mark>, <mark>PySpark</mark>, <mark>Pytorch</mark> and <mark>OpenCV</mark>
+  My technical skills are: 
+  - <mark>Python</mark>, 
+  - <mark>Pyspark</mark>
+  - <mark>Pytorch</mark>
+  - <mark>Github</mark>
+  - <mark>Linux</mark>
+
+  My English:
+  - <mark>Toeic 800</mark>
 
 # Projects Section
 # projects_title: Projects

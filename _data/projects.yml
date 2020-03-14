@@ -7,7 +7,7 @@
     I proposed two approaches to solve this problem. Firstly, I used YOLOv3 model trained on MOT17-DET to detect person. Secondly, I used CSRNET to estimate crowed scenes. I found that the solution using YOLOv3 provide a realtime solution and can be applied with the scene and the pose of perdestrians without pre-training.
     After that, I used Gaussian matrix to represent a person detection area in the heatmap and weighted accumulate the matrix during the time of video to visualize the density of perdestrians.
 
-- layout: left
+- layout: top-middle
   name: Online Pedestrian Tracking
   quote: >
     HUST - In this project, I have learnt about object detection and tracking algorithms
