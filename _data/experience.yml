@@ -22,11 +22,18 @@
 - layout: left
   company: Finsify
   link: https://finsify.com/
-  job_title: Data Mining trainee
+  job_title: Machine Learning Engineer trainee
   dates: April 2018 - October 2018
   quote: >
+    Finsify is a Fintech startup from since 2014
 
-  description:
-    I have learnt a lot about software engineering, text mining, NLP and Deep Learning algorithms
+  description: |
+    During the time working here, I contributed to the company with these projects: |
+      - Trasaction classisifaction for MoneyLover applifcation:
+        - The objective is to classify transaction based on their description provided by banks
+        - In this project, I implemented a CNN and customized Word2Vec model to do classification task. I also prodide APIs for web/app
+      - User segmentation for crawling optimization:
+        - The objective is to segment users into groups depend on their activities to schedule servers to crawl data to save the cost
+        - I used statistic features and KNN to segments users in the system
 
 

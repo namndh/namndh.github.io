@@ -8,8 +8,6 @@ title: Data Engineer
 email: hainam.nguyen.ict@gmail.com
 website: https://namndh.github.io
 
-darkmode: true
-
 # Social links
 # twitter_username: facespics
 github_username:  namndh
@@ -30,8 +28,6 @@ about_content: | # this will include new lines to allow paragraphs
   
   My technical skills are: 
   - <mark>Python</mark>
-  - <mark>Pyspark</mark>
-  - <mark>Pytorch</mark>
   - <mark>Github</mark>
   - <mark>Linux</mark>
 
@@ -51,8 +47,8 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in data and software engineering some of my other interests and hobbies are:
-   - Gym
-   - Gaming
+   - Running
+   - Lifting
    - Pool Billiard
 
 # Footer
@@ -60,6 +56,8 @@ footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
+
+darkmode: true
 
 sass:
   sass_dir: _sass
