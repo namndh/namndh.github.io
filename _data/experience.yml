@@ -1,13 +1,21 @@
 - layout: left
   company: Teko
   link: https://www.teko.vn
-  job_title: Data Engineer
+  job_title: Data Engineer, DataOps Engineer
   dates: September 2019 - Present
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    Our team provides ETL process for data of VNPAY, VNShop, VinMart to make these data meaningful. 
-    We provide reusable code with unit-test. We use Gitlab CI-CD to make our tasks run automatically.
+    After about one year working as Data Engineer, I have been working as both Data Engineer and DataOps Engineer.
+    During the time working in Teko, I have contributed:
+      - Providing ETL processes on big data of VNSHOP, PHONGVU, VNPAY, VINMART, POS365
+      - Providing reports using internal email system and Google Data Studio
+      - Ingesting data from multiple sources such us sequential databases, non-sequential databases, APIs, website, GCP
+      - Providing CI/CD using Gitlab CI/CD and Apache Airflow
+      - Providing Avro-Parquet schema converter from design
+      - Providing simple automation ETL
+    I have used Python, Pyspark, and working with some Amazon-s3-like APIs from Minio
+
 
 - layout: left
   company: Aimesoft
@@ -15,9 +23,21 @@
   job_title: Machine Learning engineer
   dates: October 2018 - September 2019
   quote: >
+    Aimesoft established in 2018 with vision to providing AI products
 
-  description:
-    We provide scalable, reuseable and high performance computer vision applications.
+  description: |
+    Worked as a Machine Learning engineer, I provided scalable, reuseable computer vision applications:
+      - Money classification:
+        - I delivered this project for JCM company in order to real-time real-counterfit money detection in cash machine
+        - Analysis and compare classification algorithms and feature extractors using RGB and IR cameras
+        - Providing APIs for GUI application
+        - I used C++/OpenCV and Visual Studio 2015 in this project
+      - Density Analysis:
+        - The objective of project is detect and visualize density of people in static scences in supermarkets, stations for better advertising
+        - I proposed to approaches to solve this problems:
+          - YOLOv3 trained to detect person on MOT17DET dataset. This approach provides a online, real-time solution with better accuracy
+          - Pretrained CSRNET to understand crowed scences. This approach requires knowledge about the scences before running, if not it would perform poorly
+
   
 - layout: left
   company: Finsify
@@ -28,12 +48,13 @@
     Finsify is a Fintech startup from since 2014
 
   description: |
-    During the time working here, I contributed to the company with these projects: |
-      - Trasaction classisifaction for MoneyLover applifcation:
+    During the time working here, I contributed to the company with these projects:
+      - Trasaction classisifaction for MoneyLover application:
         - The objective is to classify transaction based on their description provided by banks
         - In this project, I implemented a CNN and customized Word2Vec model to do classification task. I also prodide APIs for web/app
       - User segmentation for crawling optimization:
         - The objective is to segment users into groups depend on their activities to schedule servers to crawl data to save the cost
         - I used statistic features and KNN to segments users in the system
+    in these two projects, I used Pytorch, Pandas and Sklearn
 
 

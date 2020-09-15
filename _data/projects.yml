@@ -1,41 +1,11 @@
 - layout: top-middle
-  name: Density Analysis
-  quote: >
-    Aimesoft
-  description: | # this will include new lines to allow paragraphs
-    The objective of project is visualizing realtime the density of pedestrians in areas where the CCTVs covered. 
-    I proposed two approaches to solve this problem. Firstly, I used YOLOv3 model trained on MOT17-DET to detect person. Secondly, I used CSRNET to estimate crowed scenes. I found that the solution using YOLOv3 provide a realtime solution and can be applied with the scene and the pose of pedestrians without pre-training.
-    After that, I used Gaussian matrix to represent a person detection area in the heat-map and weighted accumulate the matrix during the time of video to visualize the density of pedestrians.
-
-- layout: top-middle
   name: Online Pedestrian Tracking
   quote: >
     HUST - In this project, I have learnt about object detection and tracking algorithms
   description: | # this will include new lines to allow paragraphs
-    I used this project as my graduation research at HUST and have this project A scored by both supervisor, and the thesis committee.
+    I used this project as my graduation research at HUST and have this project A scored by both supervisor, and the thesis committee. |
     The objective of this project is tracking pedestrians while remaining their identifications during the time they appeared in the video space.
     I proposed two solutions based on DeepSORT architecture. First, I replaced RCNN person detector by Yolo V3 pre-trained on ImageNet. Second, I alter the DeepSORT architecture by using parameter-free spatial attention network as appearance descriptor.
-
-- layout: top-middle
-  name: Real-counterfeit money classification
-  quote: >
-    Aimesoft - A project invested by Japan Cash Machine Co., Ltd.
-  description:
-    The image of banknotes are captured by multiple sensors including RGB, IR. I used RGB and IR images with combination of classic classification algorithms with feature extraction algorithms to classify real-counterfeit banknotes.
-
-- layout: top-middle
-  name: User segmentation for crawling optimization
-  quote: > 
-    Finsify
-  description:
-    We used K-means and mean-shift algorithms with the input is statistical data from users' activities to segment them into groups. We set different schedules for our servers for each group of users to crawl the data, which would help us save the cost of using service from third party companies.
-
-- layout: top-middle
-  name: Transactions classification for MoneyLover application
-  quote: >
-    Finsify
-  description:
-    I use CNN with customized Word2Vec model to classify transaction descriptions. After that, I serve API requests to connect the model with application. This project helps MoneyLover increase positively their user experience.
 
 - layout: top-middle
   name: Error detection on cable products
