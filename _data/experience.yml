@@ -4,7 +4,9 @@
   job_title: Data Engineer, DataOps Engineer
   dates: September 2019 - Present
   quote: >
-   
+   Established in Jan 2017 with mission "Changing people's lives by providing great experiences on the Internet".
+    Teko is  investing strongly in the fields of Fintech, New Retail, Logistics, Warehouse, Digital Entertainment, B2B Management Solution with greatest success is VNPAY
+
   description: | # this will include new lines to allow paragraphs
     After about one year working as Data Engineer, I have been working as both Data Engineer and DataOps Engineer.
     During the time working in Teko, I have contributed:
@@ -12,8 +14,8 @@
       - Providing reports using internal email system and Google Data Studio
       - Ingesting data from multiple sources such us sequential databases, non-sequential databases, APIs, website, GCP
       - Providing CI/CD using Gitlab CI/CD and Apache Airflow
-      - Providing Avro-Parquet schema converter from design
-      - Providing simple automation ETL
+      - Providing Avro-Parquet schema converter from json-based design
+      - Providing simple automation ETL from json-based design
     I have used Python, Pyspark, and working with some Amazon-s3-like APIs from Minio
 
 

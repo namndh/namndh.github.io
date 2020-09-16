@@ -1,7 +1,7 @@
 - layout: top-middle
   name: Online Pedestrian Tracking
   quote: >
-    HUST - In this project, I have learnt about object detection and tracking algorithms
+    HUST - In this project, I have learnt about doing experiments and writing scientific reports and thesis
   description: | # this will include new lines to allow paragraphs
     I used this project as my graduation research at HUST and have this project A scored by both supervisor, and the thesis committee. |
     The objective of this project is tracking pedestrians while remaining their identifications during the time they appeared in the video space.
