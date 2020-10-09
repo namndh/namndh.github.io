@@ -15,7 +15,8 @@
       - Ingesting data from multiple sources such us sequential databases, non-sequential databases, APIs, website, GCP
       - Providing CI/CD using Gitlab CI/CD and Apache Airflow
       - Providing Avro-Parquet schema converter from json-based design
-      - Providing simple automation ETL from json-based design |
+      - Providing simple automation ETL from json-based design 
+      |
     I have used Python, PySpark, and open-source object storage systems
 
 
