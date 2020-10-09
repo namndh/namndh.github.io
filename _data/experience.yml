@@ -9,15 +9,13 @@
 
   description: | # this will include new lines to allow paragraphs
     After about one year working as Data Engineer, I have been working as both Data Engineer and DataOps Engineer.
-    During the time working in Teko, I have contributed:
+    During the time working in Teko, I have been using Python, PySpark, and open-source object storage systems to contribute:
       - Providing ETL processes on big data of VNSHOP, PHONGVU, VNPAY, VINMART, POS365
       - Providing reports using internal email system and Google Data Studio
       - Ingesting data from multiple sources such us sequential databases, non-sequential databases, APIs, website, GCP
       - Providing CI/CD using Gitlab CI/CD and Apache Airflow
       - Providing Avro-Parquet schema converter from json-based design
       - Providing simple automation ETL from json-based design 
-      |
-    I have used Python, PySpark, and open-source object storage systems
 
 
 - layout: left
