@@ -29,7 +29,7 @@
   description: |
     Worked as a Machine Learning engineer, I provided scalable, reuseable computer vision applications:
       - Money classification:
-        - I delivered this project for JCM company in order to detect realtime real-counterfeit different banknotes in cash machine
+        - I delivered this project for JCM company in order to detect realtime real-counterfeit different banknotes in cash machines
         - Analysis and compare classification algorithms and feature extractors using RGB and IR cameras
         - Providing APIs for GUI application
         - I used C++/OpenCV and Visual Studio 2015 in this project
