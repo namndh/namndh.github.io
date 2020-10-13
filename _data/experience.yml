@@ -14,8 +14,8 @@
       - Providing reports using internal email system and Google Data Studio
       - Ingesting data from multiple sources such us sequential databases, non-sequential databases, APIs, website, GCP
       - Providing CI/CD using GitLab CI/CD and Apache Airflow
-      - Providing Avro-Parquet schema converter from json-based design
-      - Providing simple automation ETL from json-based design 
+      - Providing Avro-Parquet schema converter from json-based designs
+      - Providing simple automation ETL from json-based designs
 
 
 - layout: left
@@ -56,6 +56,7 @@
       - User segmentation for crawling optimization:
         - The objective is to segment users into groups depend on their activities to schedule servers to crawl data to save the cost
         - I used statistic features and KNN to segments users in the system
+| 
     in these two projects, I used Pytorch, Pandas and Sklearn
 
 

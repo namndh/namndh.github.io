@@ -6,7 +6,8 @@ favicon: images/favicon.ico
 name: Nam Nguyen
 title: Data Engineer
 email: hainam.nguyen.ict@gmail.com
-website: https://namndh.github.io
+website: https://namndh.github.
+phone: +84 973 106 096
 
 # Social links
 # twitter_username: facespics
@@ -24,7 +25,7 @@ github_username:  namndh
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Nam and I am a junior data engineer. I also have experience in developing machine learning and deep learning application. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Nam Nguyen and I am a junior data engineer. I also have experience in developing machine learning and deep learning applications. I have worked at a number of companies gaining teamwork and leadership skills.
   
   My technical skills are: 
   - <mark>Python</mark>
