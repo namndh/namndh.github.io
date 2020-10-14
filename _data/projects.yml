@@ -7,6 +7,10 @@
     I proposed two solutions based on DeepSORT architecture:
       - Firstly, I replaced RCNN person detector by Yolo V3 pre-trained on ImageNet. 
       - Second, I altered the DeepSORT architecture by using parameter-free spatial attention network as appearance descriptor.
+    
+
+
+
     Both proposes provide a higher accuracy comparing to original methods. But only YoloV3 propose satisfied real-time constraint.
 
 - layout: top-middle
