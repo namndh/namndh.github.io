@@ -4,7 +4,9 @@
     HUST - It is my graduation research project in which I got an A, I have learnt about doing experiments and writing scientific reports and thesis in this project
   description: | # this will include new lines to allow paragraphs
     The objective of this project is tracking pedestrians while remaining their identifications during the time they appeared in the video space.
-    I proposed two solutions based on DeepSORT architecture. First, I replaced RCNN person detector by Yolo V3 pre-trained on ImageNet. Second, I altered the DeepSORT architecture by using parameter-free spatial attention network as appearance descriptor. |
+    I proposed two solutions based on DeepSORT architecture:
+      - Firstly, I replaced RCNN person detector by Yolo V3 pre-trained on ImageNet. 
+      - Second, I altered the DeepSORT architecture by using parameter-free spatial attention network as appearance descriptor.
     Both proposes provide a higher accuracy comparing to original methods. But only YoloV3 propose satisfied real-time constraint.
 
 - layout: top-middle
