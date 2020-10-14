@@ -49,14 +49,12 @@
     Finsify is a Fintech startup from since 2014
 
   description: |
-    During the time working here, I contributed to the company with these projects:
+    During the time working here, I contributed to the company with these projects by using PyTorch, Pandas, Scikit-learn:
       - Transaction classification for MoneyLover application:
         - The objective is to classify transaction based on their description provided by banks
         - In this project, I implemented a CNN and customized Word2Vec model to do classification task. I also provide APIs for web/app
       - User segmentation for crawling optimization:
         - The objective is to segment users into groups depend on their activities to schedule servers to crawl data to save the cost
-        - I used statistic features and KNN to segments users in the system
-| 
-    in these two projects, I used Pytorch, Pandas and Sklearn
+        - I used statistic features and KNN to segments users in the system 
 
 
