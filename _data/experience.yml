@@ -8,8 +8,7 @@
     Teko is  investing strongly in the fields of Fintech, New Retail, Logistics, Warehouse, Digital Entertainment, B2B Management Solution with greatest success is VNPAY
 
   description: | # this will include new lines to allow paragraphs
-    After about one year working as Data Engineer, I have been working as both Data Engineer and DataOps Engineer.
-    During the time working in Teko, I have been using Python, PySpark, and open-source object storage systems to contribute:
+    After working here for about 1 year, I have archieved experiences not only as data engineer but also dataops engineer. I have been using Python, PySpark, and open-source object storage systems to contribute:
       - Providing ETL processes on big data of VNSHOP, PHONGVU, VNPAY, VINMART, POS365
       - Providing reports using internal email system and Google Data Studio
       - Ingesting data from multiple sources such us sequential databases, non-sequential databases, APIs, website, GCP
@@ -29,13 +28,13 @@
   description: |
     Worked as a Machine Learning engineer, I provided scalable, reuseable computer vision applications:
       - Money classification:
-        - I delivered this project for JCM company in order to detect realtime real-counterfeit different banknotes in cash machines
+        - I delivered this project for JCM company in order to detect realtime real-counterfeit banknotes in cash machines
         - Analysis and compare classification algorithms and feature extractors using RGB and IR cameras
         - Providing APIs for GUI application
         - I used C++/OpenCV and Visual Studio 2015 in this project
       - Density Analysis:
         - The objective of project is detect and visualize density of people in static scenes in supermarkets, stations for better advertising
-        - I proposed to approaches to solve this problems:
+        - I proposed two approaches to solve this problems:
           - YOLOv3 trained to detect person on MOT17DET dataset. This approach provides a online, real-time solution with better accuracy
           - Pre-trained CSRNET to understand crowed scenes. This approach requires knowledge about the scenes before running, if not it would perform poorly
 
