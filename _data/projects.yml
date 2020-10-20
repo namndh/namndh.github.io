@@ -11,7 +11,7 @@
 
 
 
-    Both proposes provide a higher accuracy comparing to original methods. But only YoloV3 propose satisfied real-time constraint.
+    Both proposals provide higher accuracy results comparing to original methods. But only YoloV3 proposal satisfied real-time constraint.
 
 - layout: top-middle
   name: Error detection on cable products
