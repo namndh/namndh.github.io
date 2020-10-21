@@ -8,7 +8,7 @@
     Teko is  investing strongly in the fields of Fintech, New Retail, Logistics, Warehouse, Digital Entertainment, B2B Management Solution with greatest success is VNPAY
 
   description: | # this will include new lines to allow paragraphs
-    After working here for about 1 year, I have archieved experiences not only as data engineer but also dataops engineer. I have been using Python, PySpark, and open-source object storage systems to contribute:
+    I have archieved experiences not only as Data Engineer but also DataOps Engineer. I have been using Python, PySpark, and open-source object storage systems to contribute:
       - Providing ETL processes on big data of VNSHOP, PHONGVU, VNPAY, VINMART, POS365
       - Providing reports using internal email system and Google Data Studio
       - Ingesting data from multiple sources such us sequential databases, non-sequential databases, APIs, website, GCP
@@ -27,13 +27,13 @@
 
   description: |
     Worked as a Machine Learning engineer, I provided scalable, reuseable computer vision applications:
-      - Money classification - I delivered this project for Japan Cash Machine Co., Ltd.:
+      - Money classification - Japan Cash Machine Co., Ltd.:
         - The objective of the project is to detect realtime real-counterfeit banknotes in cash machines
         - Analyzing and comparing classification algorithms and feature extractors using RGB and IR cameras
         - Providing APIs for GUI application
         - I used C++/OpenCV and Visual Studio 2015 in this project
       - Density Analysis:
-        - The objective of project is detect and visualize density of people in static scenes in supermarkets, stations for better advertising
+        - The objective of project is detect and visualize density of people in static scenes in supermarkets, stations ...etc, for better advertising
         - I proposed two approaches to solve this problems:
           - Person detection pretrained YOLOv3 on MOT17DET dataset. This approach provides an online, realtime solution with better accuracy
           - Pre-trained CSRNET to understand crowded scenes. This approach requires knowledge about the scenes before executing, if not it would perform poorly
@@ -49,7 +49,7 @@
     Finsify is a Fintech startup from since 2014
 
   description: |
-    During the time working here, I contributed to the company with these projects by using PyTorch, Pandas, Scikit-learn:
+    I contributed to the company with these projects by using PyTorch, Pandas, Scikit-learn:
       - Transaction classification for MoneyLover:
         - The objective is to classify transaction based on their description provided by banks
         - I implemented a CNN and customized Word2Vec model to do classification task. I also provide APIs for Money Lover web and application
